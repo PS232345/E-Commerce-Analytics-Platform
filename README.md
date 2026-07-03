@@ -5,6 +5,8 @@ A Flask-based web dashboard visualizing e-commerce sales performance — revenue
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Flask](https://img.shields.io/badge/Built%20with-Flask-black)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/05a87a16-8a3d-40fb-908f-f06e856f9ba4" />
+
 
 ---
 
